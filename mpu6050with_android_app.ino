@@ -14,6 +14,7 @@ String AX,AY,AZ,DX,DY,DZ,d1="";
 // MPU6050 Slave Device Address
 const uint8_t MPU6050SlaveAddress = 0x68;
 
+
 // Select SDA and SCL pins for I2C communication 
 const uint8_t scl = D6;
 const uint8_t sda = D7;
